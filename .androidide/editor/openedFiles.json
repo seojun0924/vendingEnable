@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Play 스토어 활성화/app/src/main/java/com/psj/vendingenabler/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 21,
+          "index": 1025,
+          "line": 29
+        },
+        "start": {
+          "column": 21,
+          "index": 1025,
+          "line": 29
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Play 스토어 활성화/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 79,
+          "index": 402,
+          "line": 7
+        },
+        "start": {
+          "column": 79,
+          "index": 402,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Play 스토어 활성화/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 25,
+          "index": 450,
+          "line": 10
+        },
+        "start": {
+          "column": 25,
+          "index": 450,
+          "line": 10
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Play 스토어 활성화/app/src/main/java/com/psj/vendingenabler/MainActivity.java"
+}
